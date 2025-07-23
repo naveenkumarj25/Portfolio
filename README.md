@@ -1,21 +1,9 @@
 # 🌐 Portfolio Website - Naveen Kumar J
 
 Welcome to my personal portfolio repository!  
-I'm Naveen Kumar J, a web developer passionate about creating responsive and user-friendly applications. This website showcases my work, skills, and resume.
+I'm Naveen Kumar J. This website showcases my work, skills, and resume, built using HTML, CSS, and JavaScript.
 
 🔗 **Live Site**: [naveenkumarj.tech](https://naveenkumarj.tech)
-
----
-
-## 📁 Project Structure
-
-📦 Portfolio/
-├── index.html # Main HTML page
-├── styles.css # Custom styles for the portfolio
-├── script.js # JavaScript for interactivity
-├── Naveen Kumar J - ATS Resume.pdf # Resume (opens in new tab)
-├── CNAME # Custom domain config
-└── README.md # You're reading this!
 
 ---
 
