@@ -31,5 +31,5 @@ Deployed on GitHub Pages using the main branch.
 Custom domain (naveenkumarj.tech) configured via the CNAME file.
 Visit → https://naveenkumarj.tech
 
-📝 License
-This project is licensed under the MIT License. Feel free to use and modify it for personal portfolios. See the LICENSE file for details.
+## 📝 License
+This project is free to use and modify for personal portfolios.
